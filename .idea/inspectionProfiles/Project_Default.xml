@@ -6,6 +6,9 @@
         <list>
           <option value="io.rest-assured:rest-assured" />
           <option value="commons-io:commons-io" />
+          <option value="com.fasterxml.jackson.core:jackson-databind" />
+          <option value="com.fasterxml.jackson.core:jackson-annotations" />
+          <option value="com.fasterxml.jackson.core:jackson-core" />
         </list>
       </option>
     </inspection_tool>
